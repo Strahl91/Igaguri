@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{753B3C48-8BC4-9D76-D603-C6C44C42E119}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MoveTarget2.cs">
+    <Files>
+      <File FileName="Assets/IgaguriController.cs" Line="14" Column="54" />
+      <File FileName="Assets/IgaguriGenerator.cs" Line="23" Column="1" />
+      <File FileName="Assets/MoveTarget.cs" Line="23" Column="45" />
+      <File FileName="Assets/MoveTarget2.cs" Line="19" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Igaguri" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="MoveTarget2.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e4f82c03-8b0e-420b-994b-a6ccedfd5d85" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
