@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{B3920A25-F12C-143C-1AA2-F5F519640B8E}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/GameDirector.cs">
+    <Files>
+      <File FileName="Assets/CarController.cs" Line="24" Column="27" />
+      <File FileName="Assets/GameDirector.cs" Line="14" Column="53" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SwipeCar" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="GameDirector.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="634e1832-d530-49b7-83ee-2f2353d55ed1" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
